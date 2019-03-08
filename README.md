@@ -20,3 +20,9 @@ pyhon-os
 python-tabulate  (https://pypi.org/project/tabulate/)
 python-pychalk   (https://pypi.org/project/pychalk/)
 ```
+## INSTALACIÓN
+Requiere tener instalado PIP
+```
+pip install -r requirements.txt
+
+```
