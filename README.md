@@ -4,9 +4,9 @@
 
 ## Graficadora de curvas linealizadas
 
+https://i.ibb.co/480rVVH/Peek-2019-03-07-20-56.gif```
 
-
-# Dependencias para python 3
+## Dependencias para python 3
     
 ## LIBRERIAS
 ```
