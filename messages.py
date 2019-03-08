@@ -14,9 +14,11 @@ def clear():
 def Wellcome ():
   clear()
   print(chalk.blue('\n████████████████████████████████████████████████████████████████████████████████ \n'))
-  print(chalk.blue('                      ▀▄▒▄▀ ░░ ▒█▀▀█ ▒█▀▀█ ░█▀▀█ ▒█▀▀▀ ', bold=True ))
-  print(chalk.blue('                      ░▒█░░ ▀▀ ▒█░▄▄ ▒█▄▄▀ ▒█▄▄█ ▒█▀▀▀ ', bold=True))
-  print(chalk.blue('                      ▄▀▒▀▄ ░░ ▒█▄▄█ ▒█░▒█ ▒█░▒█ ▒█░░░ ', bold=True))
+  print(chalk.blue('     ooooo  oooo             ooooooo8  oooooooooo       o      ooooooooooo ', bold=True ))
+  print(chalk.blue('       888  88             o888    88   888    888     888      888    88 ', bold=True))
+  print(chalk.blue('         888     ooooooooo 888    oooo  888oooo88     8  88     888ooo8    ', bold=True))
+  print(chalk.blue('        88 888             888o    88   888  88o     8oooo88    888        ', bold=True))
+  print(chalk.blue('     o88o  o888o            888ooo888  o888o  88o8 o88o  o888o o888o   ', bold=True))
   print(chalk.blue('\n████████████████████████████████████████████████████████████████████████████████ \n'))
 
 

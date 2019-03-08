@@ -59,7 +59,7 @@ while True:
   # Opcion 1 TypeData
   # Ingrasara datos por teclado 
   if op == 'typedata':
-    print('\n ✘✘ Ingrese los valores de X & Y para los datos:  \n')
+    print('\n ✘✘ Ingrese los valores de X & Y para los datos x para salir:  \n')
     recivedData = fillMatrixData(False)
     fillTable = True
 
